@@ -1,7 +1,7 @@
 # Grasper-App
 
 
-A productivity suite application built using Flutter for a university project. 
+A productivity suite application built using Flutter and Firebase. 
 
 ## Getting Started
 
